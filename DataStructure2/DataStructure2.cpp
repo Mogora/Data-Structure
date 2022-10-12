@@ -22,7 +22,7 @@ void CreateArray(DynamicArray* dynamicArray)
 }
 
 /// <summary>
-/// Функция заполнения массива рандомными числами.ff
+/// Функция заполнения массива рандомными числами.пппп
 /// </summary>
 /// <param name="arr"></param>
 /// <param name="size"></param>
